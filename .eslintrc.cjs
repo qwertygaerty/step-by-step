@@ -18,7 +18,6 @@ module.exports = {
     "no-param-reassign": ["error"],
     'no-console': 'warn',
     'no-debugger': 'warn',
-    '@typescript-eslint/explicit-module-boundary-types': 'error',
     '@typescript-eslint/ban-types': [
       'error',
       {
