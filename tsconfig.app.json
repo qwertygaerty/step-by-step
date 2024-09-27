@@ -16,12 +16,6 @@
     "strictFunctionTypes": true,
     "strictBindCallApply": true,
     "strictPropertyInitialization": true,
-    "noImplicitThis": true,
     "alwaysStrict": true,
-    "resolveJsonModule": true,
-    "experimentalDecorators": true,
-    "forceConsistentCasingInFileNames": true,
-    "allowSyntheticDefaultImports": true,
-    "sourceMap": true
   },
 }
